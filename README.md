@@ -1,4 +1,4 @@
-# todo-list creation based on the number of object creation in javascript with MVC design pattern
+# todo-list creation based on the number of object creation in javascript  MVC design pattern with localStorage
 The operations are given below:
 1. Add a list
 2. Diplay all list
